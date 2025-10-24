@@ -1,4 +1,37 @@
+import 'dart:convert';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+
+Future<Map<String, dynamic>> loadOrthodoxCalendar() async {
+  String jsonString = await rootBundle.loadString('assets/ORTHODOX_CALENDAR_2025.json');
+  return json.decode(jsonString);
+}
+
+
+
+Future<Map<String, dynamic>> isHolidayToday() async {
+  final holidays = await loadOrthodoxCalendar();
+  DateTime now = DateTime.now();
+  String month = now.month.toString();
+  String day = now.day.toString();
+
+  if (!holidays.containsKey(month)) {
+    return {'isHoliday': false, 'date': ''};
+  }
+
+  final dayList = holidays[month] as List<dynamic>;
+
+  for (var holiday in dayList) {
+    if (holiday['date'] == day) {
+      return {
+        'isHoliday': holiday['isHoliday'] == true,
+        'text': holiday['date'] ?? ''
+    };
+  }}
+
+  return {'isHoliday': false, 'date': ''};
+}
+
 
 void main() {
   runApp(const MaterialApp(
@@ -20,7 +53,7 @@ class _MyAppState extends State<MyApp> {
   bool _showAnimation = false; // false - ecranul initial
   bool _showDecision  = false; // false - ecranul initial
   bool _status  = false; // True - DA, False - NU
-
+  String _holidayText = '';
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -62,18 +95,52 @@ class _MyAppState extends State<MyApp> {
     return _buildImageContainer('assets/images/Animated.gif'
       , key: const Key('animation')
       );
+  }Widget _buildContent() {
+  DateTime now = DateTime.now();
+  String weekday = ['Luni','Marți','Miercuri','Joi','Vineri','Sâmbătă','Duminică'][now.weekday - 1];
+
+  String? displayText = _showDecision && _holidayText.isNotEmpty ? '$weekday: $_holidayText' : '';
+
+  String imagePath;
+  if (_showQuestion) {
+    imagePath = 'assets/images/spalmachine.png';
+  } else if (_showAnimation) {
+    imagePath = 'assets/images/Animated.gif';
+  } else {
+    imagePath = _status ? 'assets/images/yes-machine.png' : 'assets/images/no-machine.png';
   }
 
-  Widget _buildDecision() {
-    return _status
-      ? _buildImageContainer('assets/images/yes-machine.png',
-      key: const Key('yes')
-      )
-      : _buildImageContainer('assets/images/no-machine.png',
-      key: const Key('no')
-      );
-  
-  }
+  return SizedBox(
+    width: 400,
+    height: 560 + 60, // imagine + spațiu pentru text
+    child: Column(
+      children: [
+        SizedBox(
+          width: 400,
+          height: 560,
+          child: _buildImageContainer(imagePath),
+        ),
+        const SizedBox(height: 8),
+        SizedBox(
+          height: 60, // spațiu fix pentru text
+          child: Center(
+            child: Text(
+              displayText,
+              textAlign: TextAlign.center,
+              style: const TextStyle(
+                fontSize: 18,
+                fontWeight: FontWeight.bold,
+                color: Colors.black,
+              ),
+            ),
+          ),
+        ),
+      ],
+    ),
+  );
+}
+
+
 
   Widget _buildImageContainer(String path, {Key ? key}) {
     return SizedBox(
@@ -107,18 +174,22 @@ class _MyAppState extends State<MyApp> {
     );
   }
 
-  void _startAnimation() {
+  void _startAnimation() async {
     setState(() {
 
       _showQuestion = false;
       _showAnimation = true;
+    });
+      await Future.delayed(const Duration(seconds: 2));
 
-      Future.delayed(const Duration(seconds: 2), () {
-        setState(() {
-          _status = (DateTime .now().second % 2 == 0);
-          _showAnimation = false;
-          _showDecision = true;
-        });
-      });
+      final today = await isHolidayToday();
+
+      setState(() {
+        _status = !today['isHoliday'];
+        _holidayText = today['text'];
+        _showAnimation = false;
+        _showDecision = true;
+        
+      
     });
   }}

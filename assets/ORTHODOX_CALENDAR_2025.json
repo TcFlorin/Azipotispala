@@ -1,0 +1,1851 @@
+{
+    "1": [
+        {
+            "date": "1",
+            "text": "Tăierea-împrejur cea după trup a Domnului; Vasile cel Mare, arhiep. Cezareei Capadociei și mama sa Sf. Emilia (Harți)",
+            "isHoliday": true
+        },
+        {
+            "date": "2",
+            "text": "Înainte-prăznuirea Botezului Domnului; Silvestru, ep. Romei; Sf. Cuv. Serafim de Sarov",
+            "isHoliday": false
+        },
+        {
+            "date": "3",
+            "text": "Prooroc Maleahi; Mc. Gordie (Zi aliturgică) (Harți)",
+            "isHoliday": false
+        },
+        {
+            "date": "4",
+            "text": "Soborul Sf. 70 de Apostoli; Cuv. Teoctist din Siciliei; Cuv. Apolinaria; Cuv. Nichifor cel Lepros (Sâmbăta dinaintea Botezului Domnului)",
+            "isHoliday": false
+        },
+        {
+            "date": "5",
+            "text": "Mc. Teopempt și Teonas; Cuv. Sinclitichia (Ajunul Botezului Domnului) (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "6",
+            "text": "Botezul Domnului (Boboteaza - Dumnezeiasca Arătare)",
+            "isHoliday": true
+        },
+        {
+            "date": "7",
+            "text": "Soborul Sf. Prooroc Ioan Botezătorul și Înaintemergătorul Domnului",
+            "isHoliday": true
+        },
+        {
+            "date": "8",
+            "text": "Cuv. Gheorghe Hozevitul; Cuv. Domnica (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "9",
+            "text": "Mc. Polieuct; Ier. Petru, ep. Sevastiei",
+            "isHoliday": false
+        },
+        {
+            "date": "10",
+            "text": "Ier. Grigorie, ep. Nyssei; Cuv. Antipa de la Calapodești; Ier. Dometian, ep. Melitenei; (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "11",
+            "text": "Cuv. Teodosie, începătorul vieții călugărești de obște din Palestina; Cuv. Vitalie (Sâmbăta după Botezul Domnului)",
+            "isHoliday": false
+        },
+        {
+            "date": "12",
+            "text": "Mc. Tatiana diaconița și Eutasia",
+            "isHoliday": false
+        },
+        {
+            "date": "13",
+            "text": "Mc. Ermil și Stratonic; Ier. Iacob, ep. din Nisibe",
+            "isHoliday": false
+        },
+        {
+            "date": "14",
+            "text": "Odovania praznicului Botezului Domnului; Cuv. Mc. din Sinai și Rait; Nina, luminătoarea Georgiei",
+            "isHoliday": false
+        },
+        {
+            "date": "15",
+            "text": "Cuv. Pavel Tebeul și Ioan Colibașul (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "16",
+            "text": "Cinstirea lanțului Sf. Ap. Petru; Mc. Danact citețul",
+            "isHoliday": false
+        },
+        {
+            "date": "17",
+            "text": "Cuv. Antonie cel Mare; Cuv. Antonie cel nou de la Veria (Dezlegare la ulei și vin)",
+            "isHoliday": true
+        },
+        {
+            "date": "18",
+            "text": "Ier. Atanasie și Chiril, arhiep. Alexandriei",
+            "isHoliday": true
+        },
+        {
+            "date": "19",
+            "text": "Cuv. Macarie cel Mare și Macarie Alexandrinul; Ier. Marcu, mitr. Efesului; Mc. Eufrasia",
+            "isHoliday": false
+        },
+        {
+            "date": "20",
+            "text": "Cuv. Eftimie cel Mare; Mc. Eusebiu, In, Pin și Rim",
+            "isHoliday": true
+        },
+        {
+            "date": "21",
+            "text": "Cuv. Maxim Mărt.; Mc. Neofit; Mc. Agnia din Roma",
+            "isHoliday": false
+        },
+        {
+            "date": "22",
+            "text": "Ap. Timotei; Cuv. Mc. Anastasie Persul (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "23",
+            "text": "Sfințit Mc. Clement, ep. Ancirei; Mc. Agatanghel; Părinți de la Sinodul al VI-lea Ecumenic",
+            "isHoliday": false
+        },
+        {
+            "date": "24",
+            "text": "Cuv. Xenia din Roma; Xenia din Sankt Petersburg (Tedeum - Ziua Unirii Principatelor Române) (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "25",
+            "text": "Ier. Grigorie Teologul, arhiep. Constantinopolului; Ier. Bretanion, ep. Tomisului",
+            "isHoliday": true
+        },
+        {
+            "date": "26",
+            "text": "Ier. Iosif cel Milostiv, mitr. Moldovei; Cuv. Xenofont, Maria, Arcadie și Ioan",
+            "isHoliday": true
+        },
+        {
+            "date": "27",
+            "text": "Aducerea moaștelor Sf. Ier. Ioan Gură de Aur; Marciana, împ.",
+            "isHoliday": false
+        },
+        {
+            "date": "28",
+            "text": "Cuv. Efrem Sirul, Isaac Sirul, Paladie și Iacob Sihastrul",
+            "isHoliday": false
+        },
+        {
+            "date": "29",
+            "text": "Aducerea moaștelor Sf. Sfințit Mc. Ignatie Teoforul; Mc. Filotei (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "30",
+            "text": "Trei Ierarhi: Vasile cel Mare, Grigorie Teologul și Ioan Gură de Aur; Sfințit Mc. Ipolit, ep. Romei",
+            "isHoliday": true
+        },
+        {
+            "date": "31",
+            "text": "Doctori fără de arginți Chir și Ioan (Post)",
+            "isHoliday": false
+        }
+    ],
+    "2": [
+        {
+            "date": "1",
+            "text": "Înainte-prăznuirea Întâmpinării Domnului; Mc. Trifon; Mc. Perpetua și Felicitas",
+            "isHoliday": false
+        },
+        {
+            "date": "2",
+            "text": "Întâmpinarea Domnului (Stratenia); Evrei VII, 7-17 (Utrenie: Luca II, 25-32)",
+            "isHoliday": true
+        },
+        {
+            "date": "3",
+            "text": "Sf. și Dreptul Simeon, primitorul de Dumnezeu; Proorociță Ana",
+            "isHoliday": false
+        },
+        {
+            "date": "4",
+            "text": "Cuv. Isidor Pelusiotul; Sfințit Mc. Avramie",
+            "isHoliday": false
+        },
+        {
+            "date": "5",
+            "text": "Mc. Agata și Teodula (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "6",
+            "text": "Ier. Vucol, ep. Smirnei și Fotie, patr. Constantinopolului; Cuv. Varsanufie cel Mare și Ioan din Gaza",
+            "isHoliday": false
+        },
+        {
+            "date": "7",
+            "text": "Ier. Partenie, ep. Lampsacului; Cuv. Luca din Elada (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "8",
+            "text": "M. Mc. Teodor Stratilat; Proroc Zaharia",
+            "isHoliday": false
+        },
+        {
+            "date": "9",
+            "text": "Odovania Praznicului Întâmpinării Domnului; Mc. Nichifor (Începutul Triodului)",
+            "isHoliday": false
+        },
+        {
+            "date": "10",
+            "text": "Sfințit Mc. Haralambie; Mc. Valentina",
+            "isHoliday": false
+        },
+        {
+            "date": "11",
+            "text": "Sfințit Mc. Vlasie, ep. Sevastiei; Teodora, împ.",
+            "isHoliday": false
+        },
+        {
+            "date": "12",
+            "text": "Ier. Meletie, arhiep. Antiohiei celei Mari; Mc. Hristea (Harți)",
+            "isHoliday": false
+        },
+        {
+            "date": "13",
+            "text": "Cuv. Martinian; Ap. și Mc. Acvila și soția sa, Priscila; Ier. Evloghie, patr. Alexandriei",
+            "isHoliday": false
+        },
+        {
+            "date": "14",
+            "text": "Cuv. Auxenție, Maron și Avraam (Harți)",
+            "isHoliday": false
+        },
+        {
+            "date": "15",
+            "text": "Ap. Onisim; Mc. Maior",
+            "isHoliday": false
+        },
+        {
+            "date": "16",
+            "text": "Mc. Pamfil preotul și Valent diaconul; Ier. Flavian, arhiep. Constantinopolului",
+            "isHoliday": false
+        },
+        {
+            "date": "17",
+            "text": "M. Mc. Teodor Tiron; Mariamna; Împ. Marcian și Pulheria",
+            "isHoliday": false
+        },
+        {
+            "date": "18",
+            "text": "Ier. Leon cel Mare, ep. Romei",
+            "isHoliday": false
+        },
+        {
+            "date": "19",
+            "text": "Ap. Arhip, Filimon și soția sa, Apfia (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "20",
+            "text": "Ier. Leon, ep. Cataniei; Cuv. Visarion",
+            "isHoliday": false
+        },
+        {
+            "date": "21",
+            "text": "Cuv. Timotei; Ier. Eustatie, arhiep. Antiohiei (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "22",
+            "text": "Aflarea moaștelor Sf. Mc. din Constantinopol (Pomenirea morților - Moșii de iarnă)",
+            "isHoliday": false
+        },
+        {
+            "date": "23",
+            "text": "Sfințit Mc. Policarp, ep. Smirnei; Cuv. Gorgonia",
+            "isHoliday": false
+        },
+        {
+            "date": "24",
+            "text": "Întâia și a doua aflare a Capului Sf. Ioan, Înaintemergătorul și Botezătorul Domnului (Dezlegare la ouă, lactate și pește)",
+            "isHoliday": true
+        },
+        {
+            "date": "25",
+            "text": "Ier. Tarasie, patr. Constantinopolului (Dezlegare la ouă, lactate și pește)",
+            "isHoliday": false
+        },
+        {
+            "date": "26",
+            "text": "Ier. Porfirie, ep. Gazei; Mc. Fotini Samarineanca (Zi aliturgică) (Dezlegare la ouă, lactate și pește)",
+            "isHoliday": false
+        },
+        {
+            "date": "27",
+            "text": "Cuv. Mărt. Procopie și Talaleu (Dezlegare la ouă, lactate și pește)",
+            "isHoliday": false
+        },
+        {
+            "date": "28",
+            "text": "Cuv. Ioan Casian Romanul și Gherman din Dobrogea; Cuv. Vasile Mărt. (Zi aliturgică) (Dezlegare la ouă, lactate și pește)",
+            "isHoliday": false
+        }
+    ],
+    "3": [
+        {
+            "date": "1",
+            "text": "Cuv. Mc. Evdochia; Cuv. Domnina (Sâmbăta Sf. Cuvioși) (Dezlegare la ouă, lactate și pește)",
+            "isHoliday": false
+        },
+        {
+            "date": "2",
+            "text": "Sfințit Mc. Teodot, ep. Chiriniei; Mc. Isihie (Lăsatul secului pentru Postul Sfintelor Paști) (Dezlegare la ouă, lactate și pește)",
+            "isHoliday": false
+        },
+        {
+            "date": "3",
+            "text": "Mc. Eutropie, Cleonic și Vasilisc (Canonul cel Mare, partea I; Începutul Postului Sfintelor Paști) (Zi aliturgică) (Numai seara, pâine și apă)",
+            "isHoliday": false
+        },
+        {
+            "date": "4",
+            "text": "Cuv. Gherasim de la Iordan; Mc. Pavel și sora sa, Iuliana (Canonul cel Mare, partea a II-a) (Zi aliturgică) (Numai seara, pâine și apă)",
+            "isHoliday": false
+        },
+        {
+            "date": "5",
+            "text": "Mc. Conon din Isauria și Conon Grădinarul; Cuv. Marcu Pustnicul (Canonul cel Mare, partea a III-a) (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "6",
+            "text": "42 de Mc. din Amoreea; Aflarea Sfintei Cruci (Canonul cel Mare, partea a IV-a) (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "7",
+            "text": "Sfințiți Mc. Vasilevs, Evghenie, Capiton, Eterie, Agatodor și Elpidie, ep. din Herson; Sfințit Mc. Efrem, ep. Tomisului (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "8",
+            "text": "Pr. Mc. Liviu-Galaction de la Cluj; Ier. Mărt. Teofilact, ep. Nicomidiei (Sâmbăta Sf. Teodor - Pomenirea morților) (Dezlegare la ulei și vin)",
+            "isHoliday": true
+        },
+        {
+            "date": "9",
+            "text": "40 de Mc. din Sevastia (Pomenirea morților - Moșii de primăvară) (Dezlegare la ulei și vin)",
+            "isHoliday": true
+        },
+        {
+            "date": "10",
+            "text": "Mc. Codrat, Ciprian, Dionisie și cei împreună cu ei (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "11",
+            "text": "Ier. Sofronie, patr. Ierusalimului (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "12",
+            "text": "Ier. Grigorie Dialogul, ep. Romei; Cuv. Simeon Noul Teolog (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "13",
+            "text": "Aducerea moaștelor Sf. Ier. Nichifor, patr. Constantinopolului (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "14",
+            "text": "Cuv. Benedict de Nursia; Sfințit Mc. Alexandru, pr. din Pidna (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "15",
+            "text": "Mc. Agapie și Plisie, Timolau (Sâmbăta a II-a din Post - Pomenirea morților) (Dezlegare la ulei și vin)",
+            "isHoliday": false
+        },
+        {
+            "date": "16",
+            "text": "Mc. Sabin Egipteanul; Cuv. Hristodul din Patmos (Dezlegare la ulei și vin)",
+            "isHoliday": false
+        },
+        {
+            "date": "17",
+            "text": "Cuv. Alexie, omul lui Dumnezeu (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "18",
+            "text": "Ier. Chiril, arhiep. Ierusalimului (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "19",
+            "text": "Mc. Hrisant și Daria, Claudiu și Ilaria; Mc. Marian diac. (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "20",
+            "text": "Cuv. Mc. uciși în M. Sf. Sava cel Sfințit (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "21",
+            "text": "Ier. Iacob Mărt.; Cuv. Serapion; (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "22",
+            "text": "Sfințit Mc. Vasile, pr. din Ancira; Mc. Drosida, fiica împ. Traian (Sâmbăta a III-a din Post - Pomenirea morților) (Dezlegare la ulei și vin)",
+            "isHoliday": false
+        },
+        {
+            "date": "23",
+            "text": "Cuv. Mc. Nicon și cei 199 ucenici ai lui (Dezlegare la ulei și vin)",
+            "isHoliday": false
+        },
+        {
+            "date": "24",
+            "text": "Înainte-prăznuirea Bunei Vestiri; Ier. Artemon, ep. Seleuciei (Dezlegare la ulei și vin)",
+            "isHoliday": false
+        },
+        {
+            "date": "25",
+            "text": "Buna Vestire (Blagoveștenia) (Dezlegare la pește)",
+            "isHoliday": true
+        },
+        {
+            "date": "26",
+            "text": "Odovania Praznicului Bunei Vestiri; Soborul Sf. Arh. Gavriil; Mc. Montanus, pr. și soția sa, Maxima; 26 de Mc. din Goția/Dacia (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "27",
+            "text": "Mc. Matrona din Tesalonic; Mc. Filit și Lidia, soția sa, cu cei 4 fii ai lor (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "28",
+            "text": "Cuv. Ilarion cel Nou, eg. Pelechitului; Cuv. Ștefan, făcătorul de minuni (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "29",
+            "text": "Mc. Marcu, ep. Aretuselor și Chiril diac.; Mc. Iona și Varahisie; Ier. Diadoh, ep. Foticeei; (Sâmbăta a IV-a din Post - Pomenirea morților) (Dezlegare la ulei și vin)",
+            "isHoliday": false
+        },
+        {
+            "date": "30",
+            "text": "Cuv. Ioan Scărarul; Cuv. Euvula, mama Sf. Pantelimon (Dezlegare la ulei și vin)",
+            "isHoliday": false
+        },
+        {
+            "date": "31",
+            "text": "Sfințit Mc. Ipatie, ep. Gangrei; Mc. Veniamin, diac. (Post)",
+            "isHoliday": false
+        }
+    ],
+    "4": [
+        {
+            "date": "1",
+            "text": "Sf. Cuv. Maria Egipteanca; Sf. Cuv. Macarie Mărt.; Sf. Mc. Gherontie; Sf. Varsanufie de la Optina",
+            "isHoliday": false
+        },
+        {
+            "date": "2",
+            "text": "Sf. Cuv. Tit, făcătorul de minuni; Sf. Mc. Amfian și Edesie",
+            "isHoliday": false
+        },
+        {
+            "date": "3",
+            "text": "Sf. Cuv. Nichita Mărt. și Ilirie",
+            "isHoliday": false
+        },
+        {
+            "date": "4",
+            "text": "Sf. Cuv. Iosif Imnograful, Gheorghe din Maleon și Zosima",
+            "isHoliday": false
+        },
+        {
+            "date": "5",
+            "text": "Sf. Mc. Victorin și cei împreună cu el; Sf. Mc. Teodor Stratilat; Sf. Mc. Teodul și Agatopod",
+            "isHoliday": false
+        },
+        {
+            "date": "6",
+            "text": "Sf. Sfințit Mc. Irineu, ep. de Sirmium; Sf. Ier. Eutihie, patr. Constantinopolului; Sf. Cuv. Grigorie Sinaitul și Platonida",
+            "isHoliday": false
+        },
+        {
+            "date": "7",
+            "text": "Sf. Mc. Caliopie; Sf. Ier. Gheorghe Mărt., ep. Mitilenei",
+            "isHoliday": false
+        },
+        {
+            "date": "8",
+            "text": "Sf. Ap. Irodion, Agav, Ruf, Flegon, Asincrit și Ermis; Sf. Ier. Celestin, ep. Romei",
+            "isHoliday": false
+        },
+        {
+            "date": "9",
+            "text": "Sf. Mc. Eupsihie din Cezareea Capadociei; Sf. Cuv. Vadim",
+            "isHoliday": false
+        },
+        {
+            "date": "10",
+            "text": "Sf. Mc. Terentie, Pompei, African, Maxim și Dima",
+            "isHoliday": false
+        },
+        {
+            "date": "11",
+            "text": "Sf. Ier. Calinic de la Cernica, ep. Râmnicului; Sf. Sfințit Mc. Antipa, ep. Pergamului Asiei",
+            "isHoliday": false
+        },
+        {
+            "date": "12",
+            "text": "Sf. Mc. Sava de la Buzău; Sf. Ier. Vasile Mărt., ep. Pariei",
+            "isHoliday": false
+        },
+        {
+            "date": "13",
+            "text": "Sf. și Marea Luni; Sf. Ier. Pahomie de la Gledin, ep. Romanului; Sf. Ier. Martin Mărt., ep. Romei; Sf. Mc. Tomaida",
+            "isHoliday": false
+        },
+        {
+            "date": "14",
+            "text": "Sf. și Marea Marți; Sf. Ap. Aristarh, Pud și Trofim; Sf. Mc. Crescent",
+            "isHoliday": false
+        },
+        {
+            "date": "15",
+            "text": "Sf. și Marea Miercuri; Sf. Mc. fecioare Agapia, Irina și Hionia",
+            "isHoliday": false
+        },
+        {
+            "date": "16",
+            "text": "Sf. și Marea Joi; Sf. Sfințit Mc. Simeon, ep. Persiei",
+            "isHoliday": false
+        },
+        {
+            "date": "17",
+            "text": "Sf. și Marea Vineri - Scoaterea Sf. Aer; Sf. Cuv. Ioan, ucenicul Sf. Grigorie Decapolitul",
+            "isHoliday": false
+        },
+        {
+            "date": "18",
+            "text": "Sf. și Marea Sâmbătă; Sf. Cuv. Ioan de la Lavra Veche; Sf. Sfințit Mc. Pafnutie",
+            "isHoliday": false
+        },
+        {
+            "date": "19",
+            "text": "Sf. și Marea Sâmbătă; Sf. Cuv. Ioan de la Lavra Veche; Sf. Sfințit Mc. Pafnutie",
+            "isHoliday": false
+        },
+        {
+            "date": "20",
+            "text": "Învierea Domnului (Sfintele Paști); Ap. Fapte I, 1-8; Ev. Ioan I, 1-17",
+            "isHoliday": true
+        },
+        {
+            "date": "21",
+            "text": "A doua zi de Paști (Mărturia lui Ioan Botezătorul); Sf. Sfințit Mc. Ianuarie, ep. de Benevent; Sf. Mc. Teodor din Perga; Sf. Mc. Alexandra, împ.",
+            "isHoliday": true
+        },
+        {
+            "date": "22",
+            "text": "A treia zi de Paști (Drumul spre Emaus); Sf. Ier. Teodor Sicheotul, ep. Anastasiopolei",
+            "isHoliday": true
+        },
+        {
+            "date": "23",
+            "text": "Sf. M. Mc. Gheorghe, Purtătorul de biruință; Sf. Mc. Valerie",
+            "isHoliday": true
+        },
+        {
+            "date": "24",
+            "text": "Sf. Ier. Mărt. Ilie Iorest, Sava Brancovici și Simion Ștefan, mitr. Transilvaniei; Sf. Ier. Iosif Mărt. din Maramureș; Sf. Mc. Pasicrat și Valentin; Sf. Cuv. Elisabeta",
+            "isHoliday": true
+        },
+        {
+            "date": "25",
+            "text": "Izvorul Tămăduirii; Sf. Cuv. Vasile de la Poiana Mărului",
+            "isHoliday": true
+        },
+        {
+            "date": "26",
+            "text": "Sf. Sfințit Mc. Vasilevs, ep. Amasiei; Sf. Cuv. Glafira; Sf. Mc. Chiril, Chindeu și Tasie din Axiopolis (Cernavodă)",
+            "isHoliday": false
+        },
+        {
+            "date": "27",
+            "text": "Sf. Sfințit Mc. Simeon, ruda Domnului, ep. Ierusalimului",
+            "isHoliday": false
+        },
+        {
+            "date": "28",
+            "text": "Sf. Ap. Iason și Sosipatru; Sf. Mc. Maxim, Cvintilian și Dadas din Ozovia",
+            "isHoliday": false
+        },
+        {
+            "date": "29",
+            "text": "Sf. 9 Mc. din Cizic; Sf. Cuv. Memnon, făcătorul de minuni",
+            "isHoliday": false
+        },
+        {
+            "date": "30",
+            "text": "Sf. Ap. Iacob al lui Zevedeu, fratele Sf. Ap. și Ev. Ioan; Sf. Ier. Donat, ep. Evriei",
+            "isHoliday": false
+        }
+    ],
+    "5": [
+        {
+            "date": "1",
+            "text": "Sf. Prooroc Ieremia; Sf. Cuv. Mc. Eftimie, Ignatie și Acachie; Sf. Cuv. Isidora",
+            "isHoliday": false
+        },
+        {
+            "date": "2",
+            "text": "Aducerea moaștelor Sf. Ier. Atanasie cel Mare în Constantinopol; Sf. Matrona din Moscova",
+            "isHoliday": false
+        },
+        {
+            "date": "3",
+            "text": "Sf. Cuv. Irodion de la Lainici; Sf. Mc. Timotei și soția sa, Mavra",
+            "isHoliday": false
+        },
+        {
+            "date": "4",
+            "text": "Sf. Mc. Pelaghia; Sf. Cuv. Monica, mama Fer. Augustin",
+            "isHoliday": false
+        },
+        {
+            "date": "5",
+            "text": "Sf. M. Mc. Irina; Sf. Cuv. Mc. Efrem cel Nou",
+            "isHoliday": false
+        },
+        {
+            "date": "6",
+            "text": "Sf. și Dreptul Iov, mult răbdătorul; Sf. Mc. Varvar",
+            "isHoliday": false
+        },
+        {
+            "date": "7",
+            "text": "Arătarea pe cer a semnului Sf. Cruci în Ierusalim; Sf. Mc. Acachie și Codrat",
+            "isHoliday": false
+        },
+        {
+            "date": "8",
+            "text": "Sf. Ap. și Ev. Ioan Teologul; Sf. Cuv. Arsenie cel Mare",
+            "isHoliday": true
+        },
+        {
+            "date": "9",
+            "text": "Sf. Prooroc Isaia; Sf. Mc. Hristofor; Aducerea moaștelor Sf. Ier. Nicolae la Bari",
+            "isHoliday": false
+        },
+        {
+            "date": "10",
+            "text": "Sf. Ap. Simon Zilotul; Sf. Cuv. Calistrat de la Timișeni și Vasiova",
+            "isHoliday": false
+        },
+        {
+            "date": "11",
+            "text": "Sf. Sfințit Mc. Mochie pr.; Sf. Ier. Metodie și Sf. Cuv. Chiril, luminătorii slavilor",
+            "isHoliday": false
+        },
+        {
+            "date": "12",
+            "text": "Sf. Mc. Ioan Valahul; Sf. Ier. Epifanie, arhiep. Ciprului și Gherman, patriarhul Constantinopolului",
+            "isHoliday": false
+        },
+        {
+            "date": "13",
+            "text": "Sf. Mc. Glicheria; Sf. Cuv. Serghie Mărt.",
+            "isHoliday": false
+        },
+        {
+            "date": "14",
+            "text": "Înjumătățirea praznicului Cincizecimii; Sf. Mc. Isidor din Hios; Sf. Sfințit Mc. Terapont, ep. Ciprului",
+            "isHoliday": false
+        },
+        {
+            "date": "15",
+            "text": "Sf. Cuv. Pahomie cel Mare; Sf. Ier. Iacob Putneanul, mitr. Moldovei",
+            "isHoliday": false
+        },
+        {
+            "date": "16",
+            "text": "Sf. Cuv. Teodor cel Sfințit; Sf. Cuv. Sila, Paisie și Natan de la Sihăstria Putnei",
+            "isHoliday": false
+        },
+        {
+            "date": "17",
+            "text": "Sf. Ap. Andronic și soția sa, Iunia; Sf. Cuv. Nectarie și Teofan",
+            "isHoliday": false
+        },
+        {
+            "date": "18",
+            "text": "Sf. Mc. Petru, Dionisie și Paulin",
+            "isHoliday": false
+        },
+        {
+            "date": "19",
+            "text": "Sf. Mc. Talaleu; Sf. Cuv. Talasie; Sf. Lidia din Filipi",
+            "isHoliday": false
+        },
+        {
+            "date": "20",
+            "text": "Sf. Mc. Vasilisc și Marcel; Sf. Părinți de la Sinodul al II-lea Ecumenic",
+            "isHoliday": false
+        },
+        {
+            "date": "21",
+            "text": "Odovania Înjumătățirii praznicului Cincizecimii; Sf. Împ., întocmai cu ap., Constantin și mama sa, Elena",
+            "isHoliday": false
+        },
+        {
+            "date": "22",
+            "text": "Sf. Mc. Vasilisc și Marcel; Sf. Părinți de la Sinodul al II-lea Ecumenic",
+            "isHoliday": false
+        },
+        {
+            "date": "23",
+            "text": "Sf. Ier. Mihail Mărt., ep. Sinadei; Sf. Mironosiță Maria lui Cleopa",
+            "isHoliday": false
+        },
+        {
+            "date": "24",
+            "text": "Sf. Cuv. Simeon cel din Muntele Minunat",
+            "isHoliday": false
+        },
+        {
+            "date": "25",
+            "text": "A treia aflare a capului Sf. Ioan, Înaintemergătorul și Botezătorul Domnului",
+            "isHoliday": false
+        },
+        {
+            "date": "26",
+            "text": "Sf. Ap. Carp și Alfeu; Sf. Mc. Averchie și Elena",
+            "isHoliday": false
+        },
+        {
+            "date": "27",
+            "text": "Sf. Mc. Iuliu Veteranul; Sf. Sfințit Mc. Eladie și Terapont, ep. Sardei; Sf. Mărt. Ioan Rusul",
+            "isHoliday": false
+        },
+        {
+            "date": "28",
+            "text": "Odovania praznicului Învierii Domnului; Sf. Ier. Eutihiei, ep. Melitinei și Nichita, ep. Calcedonului",
+            "isHoliday": false
+        },
+        {
+            "date": "29",
+            "text": "Înălțarea Domnului (Ispasul); Ziua Eroilor; Sf. Mc. Teodosia, fecioara; Sf. Sfințit Mc. Olivian",
+            "isHoliday": true
+        },
+        {
+            "date": "30",
+            "text": "Sf. Cuv. Isaachie Mărt. și Varlaam",
+            "isHoliday": false
+        },
+        {
+            "date": "31",
+            "text": "Sf. Mc. Ermie, Eusebiu și Haralambie",
+            "isHoliday": false
+        }
+    ],
+    "6": [
+        {
+            "date": "1",
+            "text": "Sf. Iustin Martirul și Filosoful și cei impreună cu ei",
+            "isHoliday": false
+        },
+        {
+            "date": "2",
+            "text": "Sf. M. Mc. Ioan cel Nou de la Suceava; Sf. Ier. Nichifor, patr. Constantinopolului",
+            "isHoliday": false
+        },
+        {
+            "date": "3",
+            "text": "Sf. Mc. Luchilian, Ipatie și Paula fecioara",
+            "isHoliday": false
+        },
+        {
+            "date": "4",
+            "text": "Sf. Sfințit Mc. Dorotei, ep. Tirului; Sf. Mc. Apolon și Leonid",
+            "isHoliday": false
+        },
+        {
+            "date": "5",
+            "text": "Odovania praznicului Înălțării Domnului; Sf. Cuv. Ilarion cel Nou, eg. M. Dalmaților; Sf. Cuv. Visarion",
+            "isHoliday": false
+        },
+        {
+            "date": "6",
+            "text": "Sf. Sfințit Mc. Teodot, ep. Ancirei; Sf. Mc. Zenaida",
+            "isHoliday": false
+        },
+        {
+            "date": "7",
+            "text": "Sf. Sfințit Mc. Teodot, ep. Ancirei; Sf. Mc. Zenaida",
+            "isHoliday": false
+        },
+        {
+            "date": "8",
+            "text": "Pogorârea Sf. Duh (Cincizecimea sau Rusaliile); Ap. Fapte II, 1-11; Ev. Ioan VII, 37-53; VIII, 12",
+            "isHoliday": true
+        },
+        {
+            "date": "9",
+            "text": "Sf. Treime",
+            "isHoliday": true
+        },
+        {
+            "date": "10",
+            "text": "Sf. Mc. Alexandru și Antonina; Sf. Sfințit Mc. Timotei, ep. Prusiei",
+            "isHoliday": false
+        },
+        {
+            "date": "11",
+            "text": "Sf. Ap. Bartolomeu și Barnaba; Sf. Ier. Luca, arhiep. Crimeei",
+            "isHoliday": false
+        },
+        {
+            "date": "12",
+            "text": "Sf. Cuv. Onufrie cel Mare și Petru Atonitul",
+            "isHoliday": false
+        },
+        {
+            "date": "13",
+            "text": "Sf. Mc. Achilina; Sf. Ier. Trifilie, ep. Lefcosiei din Cipru",
+            "isHoliday": false
+        },
+        {
+            "date": "14",
+            "text": "Odovania praznicului Pogorârii Sf. Duh; Sf. Prooroc Elisei; Sf. Ier. Metodie Mărturisitorul, patriarhul Constantinopolului",
+            "isHoliday": false
+        },
+        {
+            "date": "15",
+            "text": "Sf. Prooroc Amos; Sf. Mc. Isihie; Fer. Augustin și Ieronim",
+            "isHoliday": false
+        },
+        {
+            "date": "16",
+            "text": "Sf. Ier. Martir Neofit Cretanul, mitropolitul Țării Româneti; Sf. Ier. Tihon, ep. Amatundei",
+            "isHoliday": false
+        },
+        {
+            "date": "17",
+            "text": "Sf. Mc. Manuil, Savel, Ismail, Inochentie și Felix",
+            "isHoliday": false
+        },
+        {
+            "date": "18",
+            "text": "Sf. Mc. Leontie, Ipatie și Teodul; Sf. Cuv. Erasm",
+            "isHoliday": false
+        },
+        {
+            "date": "19",
+            "text": "Sf. Ap. Iuda, ruda Domnului; Sf. Cuv. Paisie cel Mare",
+            "isHoliday": false
+        },
+        {
+            "date": "20",
+            "text": "Sf. Sfințit Mc. Metodie, ep. Patarelor; Sf. Ier. Calist, patr. Constantinopolului; Sf. Nicolae Cabasila",
+            "isHoliday": false
+        },
+        {
+            "date": "21",
+            "text": "Sf. Mc. Iulian din Tars și Afrodisie",
+            "isHoliday": false
+        },
+        {
+            "date": "22",
+            "text": "Sf. Ier. Grigorie Dascălul, mitr. Țării Românești; Sf. Sfințit Mc. Eusebiu, ep. Samosatei",
+            "isHoliday": false
+        },
+        {
+            "date": "23",
+            "text": "Sf. Mc. Agripina; Sf. Sfințit Mc. Aristocleu, pr.",
+            "isHoliday": false
+        },
+        {
+            "date": "24",
+            "text": "Nașterea Sf. Proroc Ioan Botezătorul (Sânzienele); Sf. M. Mc. Fevronia; Sf. Mc. Orentie și frații săi; Sf. Mc. Livia",
+            "isHoliday": false
+        },
+        {
+            "date": "25",
+            "text": "Sf. Cuv. David din Tesalonic; Sf. Ier. Ioan, ep. Goției",
+            "isHoliday": false
+        },
+        {
+            "date": "26",
+            "text": "Sf. Cuv. Samson, primitorul de străini; Sf. Mironosiță Ioana",
+            "isHoliday": false
+        },
+        {
+            "date": "27",
+            "text": "Aducerea moaștelor Sf. Mc. Doctori fără de arginți Chir și Ioan; Sf. Mc. Papias",
+            "isHoliday": false
+        },
+        {
+            "date": "28",
+            "text": "Sf. Ap. Petru și Pavel",
+            "isHoliday": true
+        },
+        {
+            "date": "29",
+            "text": "Sf. Ier. Ghelasie de la Râmeț; Sf. 12 Ap.; Sf. Ier. Ghelasie de la Râmeț",
+            "isHoliday": false
+        },
+        {
+            "date": "30",
+            "text": "Sf. Ier. Ghelasie de la Râmeț; Sf. Ier. Ghelasie de la Râmeț",
+            "isHoliday": false
+        }
+    ],
+    "7": [
+        {
+            "date": "1",
+            "text": "Sf. Ier. Leontie de la Rădăuți; Sf. Mc. Doctori fără de arginți, Cosma și Damian, cei din Roma",
+            "isHoliday": false
+        },
+        {
+            "date": "2",
+            "text": "Așezarea veșmântului Născătoarei de Dumnezeu în biserica Vlaherne; Sf. Voievod Ștefan cel Mare; Sf. Ier. Iuvenalie, patr. Ierusalimului; Sf. Ier. Ioan Maximovici",
+            "isHoliday": false
+        },
+        {
+            "date": "3",
+            "text": "Sf. Mc. Iachint; Sf. Ier. Anatolie, patr. Constantinopolului",
+            "isHoliday": false
+        },
+        {
+            "date": "4",
+            "text": "Sf. Ier. Andrei, arhiep. Cretei; Sf. Cuv. Marta",
+            "isHoliday": false
+        },
+        {
+            "date": "5",
+            "text": "Sf. Cuv. Atanasie Atonitul; Sf. Cuv. Lampadie",
+            "isHoliday": false
+        },
+        {
+            "date": "6",
+            "text": "Sf. Cuv. Dometie cel milostiv de ;a Râmeț; Sf. Cuv. Sisoe cel Mare; Sf. Mc. Lucia din Roma; Sf. Mc. Marius, soția sa, Marta, și fiii lor, Audifaciu și Avacum",
+            "isHoliday": false
+        },
+        {
+            "date": "7",
+            "text": "Duminica a IV-a după Rusalii (Vindecarea slugii sutașului); Ap. Romani VI, 18-23; Ev. Matei VIII, 5-13; Ioan XVII, 1-13; glas 3, voscr. 4",
+            "isHoliday": false
+        },
+        {
+            "date": "8",
+            "text": "Sf. M. Mc. Chiriachi; Sf. Cuv. Toma din Maleon; Sf. Mc. Evanghel",
+            "isHoliday": false
+        },
+        {
+            "date": "9",
+            "text": "Cinstirea Ic. Maicii Domnului „Îndrumătoarea” de la M. Neamț; Sf. Sfințit Mc. Pangratie, ep. Tavromeniei",
+            "isHoliday": true
+        },
+        {
+            "date": "10",
+            "text": "Sf. 45 de Mc. din Nicopolea Armeniei",
+            "isHoliday": false
+        },
+        {
+            "date": "11",
+            "text": "Sf. M. Mc. Eufimia; Sf. Olga, cea întocmai cu Ap. și luminătoarea Rusiei",
+            "isHoliday": false
+        },
+        {
+            "date": "12",
+            "text": "Cinstirea Ic. Maicii Domnului „Prodromița” de la Muntele Athos; Sf. Mc. Proclu și Ilarie; Cuv. Mihai Maleinul; Sf. Veronica; Sf. Cuv. Paisie Aghioritul",
+            "isHoliday": false
+        },
+        {
+            "date": "13",
+            "text": "Aducerea moaștelor Sfântului Cuvios Dimitrie cel Nou la București; Soborul Sf. Arh. Gavriil; Sf. Cuv. Ștefan Savaitul; Sf. Mc. Maria din Persia; Sf. Cuv. Sara",
+            "isHoliday": false
+        },
+        {
+            "date": "14",
+            "text": "Sf. Ap. Achila; Sf. Mc. Iust și Iraclie; Sf. Cuv. Nicodim Aghioritul",
+            "isHoliday": false
+        },
+        {
+            "date": "15",
+            "text": "Sf. Mc. Chiric și Iulita; Sf. Vladimir, luminătorul Rusiei",
+            "isHoliday": false
+        },
+        {
+            "date": "16",
+            "text": "Sf. Sfințit Mc. Atinoghen cu cei 10 ucenici ai săi; Sf. Mc. Iulia",
+            "isHoliday": false
+        },
+        {
+            "date": "17",
+            "text": "Sf. M. Mc. Marina; Sf. Ier. Eufrasie, ep. Ionopolei",
+            "isHoliday": false
+        },
+        {
+            "date": "18",
+            "text": "Sf. M. Mc. Emilian de la Durostorum (Ostrov); Sf. Cuv. Pamvo",
+            "isHoliday": false
+        },
+        {
+            "date": "19",
+            "text": "Sf. Cuv. Macrina, sora Sf. Vasile cel Mare; Sf. Cuv. Die; Aflarea moaștelor Sf. Cuv. Serafim de Sarov",
+            "isHoliday": false
+        },
+        {
+            "date": "20",
+            "text": "Sf. Slăvitul Prooroc Ilie Tesviteanul",
+            "isHoliday": true
+        },
+        {
+            "date": "21",
+            "text": "Sf. Cuv. Simeon și Ioan Pustnicul; Sf. Prooroc Iezechiel; Sf. Cuv. Rafail și Partenie, de la Agapia Veche",
+            "isHoliday": false
+        },
+        {
+            "date": "22",
+            "text": "Sf. Pr. Mărt. Ilie Lăcătușu; Sf. Mironosiță, întocmai cu Ap., Maria Magdalena; Sf. Cuv. Mc. Marcela",
+            "isHoliday": false
+        },
+        {
+            "date": "23",
+            "text": "Aducerea Moaștelor Sf. Sfințit Mc. Foca; Sf. Mc. Apolinarie, Vitalie și Valeria",
+            "isHoliday": false
+        },
+        {
+            "date": "24",
+            "text": "Sf. M. Mc. Hristina; Sf. Mc. Ermoghen",
+            "isHoliday": false
+        },
+        {
+            "date": "25",
+            "text": "Adormirea Sf. Ana, mama Preasfintei Născătoare de Dumnezeu; Sf. Părinți de la Sinodul al V-lea Ecumenic; Sf. Cuv. Eupraxia și Olimpiada",
+            "isHoliday": false
+        },
+        {
+            "date": "26",
+            "text": "Sf. Sfințit Mc. Ermolae; Sf. Mc. Cuv. Paraschevi din Roma; Sf. Cuv. Ioanichie cel Nou de la Muscel (Argeș)",
+            "isHoliday": false
+        },
+        {
+            "date": "27",
+            "text": "Sf. M. Mc. și Tămăduitor Pantelimon",
+            "isHoliday": true
+        },
+        {
+            "date": "28",
+            "text": "Sf. Ap. și Diac. Prohor, Nicanor, Timon și Parmena; Sf. Cuv. Pavel de la Xiropotamu",
+            "isHoliday": false
+        },
+        {
+            "date": "29",
+            "text": "Sf. Mc. Calinic, Veniamin și Mamant; Sf. Mc. Teodota cu fiii săi",
+            "isHoliday": false
+        },
+        {
+            "date": "30",
+            "text": "Sf. Ap. Sila, Silvan, Crescent, Epenet și Andronic; Sf. Mc. Valentin, ep. Umbriei",
+            "isHoliday": false
+        },
+        {
+            "date": "31",
+            "text": "Înainte-prăznuirea scoaterii Sf. Cruci; Sf. și Dreptul Evdochim; Sf. și Dreptul Iosif din Arimateea",
+            "isHoliday": false
+        }
+    ],
+    "8": [
+        {
+            "date": "1",
+            "text": "Scoaterea Sf. Cruci; Sf. 7 frați Mc. Macabei",
+            "isHoliday": true
+        },
+        {
+            "date": "2",
+            "text": "Aducerea moaștelor Sf. Întâi Mc. și Arhid. Ștefan; Dreptul Gamaliel; Binecredinciosul Împ. Iustinian cel Mare",
+            "isHoliday": false
+        },
+        {
+            "date": "3",
+            "text": "Sf. Cuv. Mărt. Iraclie din Basarabia; Sf. Cuv. Isaachie, Dalmat și Faust; Sf. Mironosiță Salomeea; Sf. Cuv. Teodora din Tesalonic",
+            "isHoliday": false
+        },
+        {
+            "date": "4",
+            "text": "Sf. 7 tineri din Efes; Sf. Mc. Tatuil",
+            "isHoliday": false
+        },
+        {
+            "date": "5",
+            "text": "Înainte-prăznuirea Schimbării la Față a Domnului; Sf. Cuv. Ioan Iacob de la Neamț; Sf. Mc. Evsignie; Sf. Nona, mama Sf. Ier. Grigorie Teologul; Sf. Ier. Fabian, ep. Romei",
+            "isHoliday": false
+        },
+        {
+            "date": "6",
+            "text": "Schimbarea la Față a Domnului (Pobrejenia)",
+            "isHoliday": true
+        },
+        {
+            "date": "7",
+            "text": "Sf. Cuv. Teodora de la Sihla; Sf. Cuv. Pafnutie - Pârvu Zugravul; Sf. Cuv. Mc. Dometie Persul; Sf. Sfințit Mc. Narcis, arhep. Ierusalimului; Sf. Cuv. Nicanor",
+            "isHoliday": false
+        },
+        {
+            "date": "8",
+            "text": "Sf. Pr. Mc. Alexandru din Basarabia; Sf. Ier. Emilian Mărt., ep. Cizicului și Miron, ep. Cretei",
+            "isHoliday": false
+        },
+        {
+            "date": "9",
+            "text": "Sf. Ap. Matia; Sf. 10 Mc. Mărt. pentru icoana lui Hristos",
+            "isHoliday": false
+        },
+        {
+            "date": "10",
+            "text": "Sf. Mc. Laurențiu, arhid.; Sf. Sfințit Mc. Xist, ep. Romei; Sf. Mc. Ipolit",
+            "isHoliday": false
+        },
+        {
+            "date": "11",
+            "text": "Sf. Ier. Nifon, patr. Constantinopolului; Sf. M. Mc. Evplu, arhid.",
+            "isHoliday": false
+        },
+        {
+            "date": "12",
+            "text": "Sf. Mc. Fotie și Anichit",
+            "isHoliday": false
+        },
+        {
+            "date": "13",
+            "text": "Odovania praznicului Schimbării la Față a Domnului; Mutarea moaștelor Sf. Cuv. Maxim Mărt.; Sf. Cuv. Dorotei și Dositei",
+            "isHoliday": false
+        },
+        {
+            "date": "14",
+            "text": "Înainte-prăznuirea Adormirii Maicii Domnului; Sf. Prooroc Miheia (Prohodul M. D.)",
+            "isHoliday": false
+        },
+        {
+            "date": "15",
+            "text": "Adormirea Maicii Domnului",
+            "isHoliday": true
+        },
+        {
+            "date": "16",
+            "text": "Aducerea Sf. Mahrame a Domnului din Edesa la Constantinopol; Sf. Martiri Brâncoveni: Constantin Voievod cu cei patru fii ai săi: Constantin, Ștefan, Radu și Matei, și sfetnicul Ianache; Sf. Cuv. Iosif de la Văratec; Sf. Mc. Diomid",
+            "isHoliday": false
+        },
+        {
+            "date": "17",
+            "text": "Sf. Gheorghe Pelerinul; Sf. Mc. Miron pr., Straton și Ciprian",
+            "isHoliday": false
+        },
+        {
+            "date": "18",
+            "text": "Sf. Mc. Flor și Lavru",
+            "isHoliday": false
+        },
+        {
+            "date": "19",
+            "text": "Sf. Mc. Andrei Stratilat, Timotei, Agapie și Tecla",
+            "isHoliday": false
+        },
+        {
+            "date": "20",
+            "text": "Sf. Prooroc Samuel; Sf. Mc. Sever, Eliodor și Teoharie",
+            "isHoliday": false
+        },
+        {
+            "date": "21",
+            "text": "Sf. Ap. Tadeu; Sf. Mc. Vasa, cu fiii ei; Sf. Mc. Donat diac., Romul pr., Silvan diac. și Venust",
+            "isHoliday": false
+        },
+        {
+            "date": "22",
+            "text": "Sf. Mc. Agatonic și cei îmtruna cu ei",
+            "isHoliday": false
+        },
+        {
+            "date": "23",
+            "text": "Odovania praznicului Adormirii Maicii Domnului; Sf. Mc. Lup; Sf. Sfințit Mc. Irineu, ep. de Lugdunum (Lyon)",
+            "isHoliday": false
+        },
+        {
+            "date": "24",
+            "text": "Aducerea moaștelor Sf. Ap. Bartolomeu; Sf. Ap. Tit",
+            "isHoliday": false
+        },
+        {
+            "date": "25",
+            "text": "Sf. Mc. Adrian și Natalia, soția sa",
+            "isHoliday": false
+        },
+        {
+            "date": "26",
+            "text": "Sf. Cuv. Pimen cel Mare; Sf. Mc. Fanurie; Sf. Ier. Osie, ep. Cordobei",
+            "isHoliday": false
+        },
+        {
+            "date": "27",
+            "text": "Sf. Cuv. Moise Etiopianul; Dreptul Iezechia",
+            "isHoliday": false
+        },
+        {
+            "date": "28",
+            "text": "Sf. Cuv. Mc. Dometie Persul; Sf. Cuv. Pafnutie - Pârvu Zugravul; Sf. Cuv. Mc. Dometie Persul; Sf. Sfințit Mc. Narcis, arhep. Ierusalimului; Sf. Cuv. Nicanor",
+            "isHoliday": false
+        },
+        {
+            "date": "29",
+            "text": "Tăierea Capului Sf. Prooroc Ioan Botezătorul; Fapte XIII, 25-33",
+            "isHoliday": true
+        },
+        {
+            "date": "30",
+            "text": "Sf. Ier. Varlaam, mitr. Moldovei și Ioan de la Râșca și Secu, ep. Romanului; Sf. Ier. Ioan de la Râșca și Secu, ep. Romanului; Sf. Ier. Ioan de la Râșca și Secu, ep. Romanului",
+            "isHoliday": false
+        },
+        {
+            "date": "31",
+            "text": "Așezarea în raclă a cinstitului brâu al Maicii Domnului; Sf. Cuv. Macarie Protopsaltul",
+            "isHoliday": false
+        }
+    ],
+    "9": [
+        {
+            "date": "1",
+            "text": "Începutul anului bisericesc; Sf. Cuv. Dionisie Exiguul (cel Smerit); Sf. Cuv. Simeon Stâlpnicul; Sf. 40 de Mucenițe din Adrianopol; Dreptul Iosua",
+            "isHoliday": true
+        },
+        {
+            "date": "2",
+            "text": "Sf. Mc. Mamant; Sf. Ier. Ioan Postitorul, patr. Constantinopolului",
+            "isHoliday": false
+        },
+        {
+            "date": "3",
+            "text": "Sf. Sfințit Mc. Antim, ep. Nicomidiei; Sf. Cuv. Teoctist din Palestina; Sf. Cuv. Neofit și Meletie de la M-rea. Stânișoara",
+            "isHoliday": false
+        },
+        {
+            "date": "4",
+            "text": "Sf. Sfințit Mc. Vavila, ep. Antiohiei; Sf. Prooroc Moise; Sf. Mc. Petroniu",
+            "isHoliday": false
+        },
+        {
+            "date": "5",
+            "text": "Sf. Prooroc Zaharia și Dreapta Elisabeta, părinții Sf. Ioan Botezătorul",
+            "isHoliday": false
+        },
+        {
+            "date": "6",
+            "text": "Pomenirea minunii Sf. Arh. Mihail în Colose; Sf. Mc. Eudoxie",
+            "isHoliday": false
+        },
+        {
+            "date": "7",
+            "text": "Înainte-prăznuirea Nașterii Maicii Domnului; Sf. Mc. Sozont; Sf. Cuv. Casiana Imnografa; Sf. Cuv. Simeon și Amfilohie de la Pângărați",
+            "isHoliday": false
+        },
+        {
+            "date": "8",
+            "text": "Nașterea Maicii Domnului",
+            "isHoliday": true
+        },
+        {
+            "date": "9",
+            "text": "Sf. și Drepții dumnezeiești Părinți Ioachim și Ana; Sf. Cuv. Chiriac de la Tazlău; Sf. Cuv. Onufrie de la Vorona; Sf. Părinți de la Sinodul al III-lea Ecumenic; Sf. Mc. Severian",
+            "isHoliday": false
+        },
+        {
+            "date": "10",
+            "text": "Sf. Mc. Minodora, Mitrodora și Nimfodora; Sf. Împ. Pulheria",
+            "isHoliday": false
+        },
+        {
+            "date": "11",
+            "text": "Sf. Cuv. Teodora din Alexandria; Sf. Cuv. Eufrosin Bucătarul",
+            "isHoliday": false
+        },
+        {
+            "date": "12",
+            "text": "Odovania Praznicului Nașterii Maicii Domnului; Sf. Mc. Avtonom, Macedonie și Teodul",
+            "isHoliday": false
+        },
+        {
+            "date": "13",
+            "text": "Înainte-prăznuirea Înălțării Sf. Cruci; Sf. Cuv. Ioan de la Prislop; Sf. Mc. din Dobrogea: Macrobie, Gordian, Ilie, Zotic, Lucian și Valerian",
+            "isHoliday": false
+        },
+        {
+            "date": "14",
+            "text": "Înălțarea Sfintei Cruci; Sf. Nou Mc. Macarie, ucenicul patr. Nifon",
+            "isHoliday": true
+        },
+        {
+            "date": "15",
+            "text": "Sf. Ier. Iosif cel Nou de la Partoș, mitr. Banatului; Sf. M. Mc. Nichita; Sf. Ier. Visarion, arhiep. Larisei",
+            "isHoliday": false
+        },
+        {
+            "date": "16",
+            "text": "Sf. Cuv. Mărt. Sofian de la Antim; Sf. M. Mc. Eufimia; Sf. Mc. Meletina și Ludmila",
+            "isHoliday": false
+        },
+        {
+            "date": "17",
+            "text": "Sf. Ier. Dionisie, ep. Cetății Albe - Ismail; Sf. Mc. Sofia și fiicele sale: Pistis, Elpis și Agapi",
+            "isHoliday": false
+        },
+        {
+            "date": "18",
+            "text": "Sf. Pr. Mc. Ilarion Felea; Sf. Ier. Eumenie, ep. Gortinei; Sf. Mc. Ariadna",
+            "isHoliday": false
+        },
+        {
+            "date": "19",
+            "text": "Sf. Mc. Trofim, Savatie și Dorimedont",
+            "isHoliday": false
+        },
+        {
+            "date": "20",
+            "text": "Sf. M. Mc. Eustatie și soția sa, Teopista, cu cei doi fii ai lor: Agapie și Teopist",
+            "isHoliday": false
+        },
+        {
+            "date": "21",
+            "text": "Odovania Praznicului Înălțării Sfintei Cruci; Sf. Ap. Codrat; Sf. Prooroc Iona",
+            "isHoliday": false
+        },
+        {
+            "date": "22",
+            "text": "Sf. Ier. Mc. Teodosie de la M. Brazi, mitr. Moldovei; Sf. Sfințit Mc. Foca, ep. de Sinope",
+            "isHoliday": false
+        },
+        {
+            "date": "23",
+            "text": "Zămislirea Sf. Prooroc Ioan Botezătorul; Sf. Cuv. Xantipa și Polixenia",
+            "isHoliday": false
+        },
+        {
+            "date": "24",
+            "text": "Sf. întâia Mc., întocmai cu ap., Tecla; Sf. Cuv. Siluan Athonitul",
+            "isHoliday": false
+        },
+        {
+            "date": "25",
+            "text": "Mutarea Sf. Ap. și Ev. Ioan; Sf. Voievod Neagoe Basarab; Dreptul Ghedeon",
+            "isHoliday": false
+        },
+        {
+            "date": "26",
+            "text": "Sf. Ier. Martir Antim Ivireanul, mitr. Țării Românești; Sf. Mc. Calistrat și Epiharia",
+            "isHoliday": false
+        },
+        {
+            "date": "27",
+            "text": "Sf. Cuv. Chiriac Sihastrul; Sf. Mc. Petronia",
+            "isHoliday": false
+        },
+        {
+            "date": "28",
+            "text": "Sf. Ier. Grigorie Luminătorul, arhiep. Armeniei; Sf. Mc. Ripsimia și Gaiani",
+            "isHoliday": false
+        },
+        {
+            "date": "29",
+            "text": "Sf. Cuv. Mc. Dometie Persul; Sf. Cuv. Pafnutie - Pârvu Zugravul; Sf. Cuv. Mc. Dometie Persul; Sf. Sfințit Mc. Narcis, arhep. Ierusalimului; Sf. Cuv. Nicanor",
+            "isHoliday": false
+        },
+        {
+            "date": "30",
+            "text": "Sf. Ier. Mc. Teodosie de la M. Brazi, mitr. Moldovei; Sf. Sfințit Mc. Foca, ep. de Sinope",
+            "isHoliday": false
+        }
+    ],
+    "10": [
+        {
+            "date": "1",
+            "text": "Sf. Cuv. Roman Melodul; Sf. Mc. Haritina; Sf. Cuv. Domnina (Sâmbăta Sf. Cuvioși)",
+            "isHoliday": false
+        },
+        {
+            "date": "2",
+            "text": "Sf. Sfințit Mc. Ciprian; Sf. Mc. Iustina fecioara",
+            "isHoliday": false
+        },
+        {
+            "date": "3",
+            "text": "Sf. Sfințit Mc. Dionisie Areopagitul; Sf. Mc. Teoctist (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "4",
+            "text": "Sf. Pr. Mărt. Dumitru Stăniloae; Sf. Sfințit Mc. Ierotei, ep. Atenei",
+            "isHoliday": false
+        },
+        {
+            "date": "5",
+            "text": "Sf. Mc. Haritina; Sf. Cuv. Misail și Daniil de la M. Turnu",
+            "isHoliday": false
+        },
+        {
+            "date": "6",
+            "text": "Sf. Ap. Toma; Sf. Mc. Erotiida",
+            "isHoliday": false
+        },
+        {
+            "date": "7",
+            "text": "Sf. M. Mc. Serghie și Vah; Sf. Mc. Iulian pr., Chesarie diac. și Polihronie",
+            "isHoliday": false
+        },
+        {
+            "date": "8",
+            "text": "Sf. Cuv. Pelaghia și Taisia (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "9",
+            "text": "Sf. Ap. Iacov al lui Alfeu; Sf. Cuv. Atanasia, Andronic și Anastasia",
+            "isHoliday": false
+        },
+        {
+            "date": "10",
+            "text": "Sf. Mc. Evlampie și sora sa, Evlampia; Sf. Cuv. Vasian și Teofil Mărt.",
+            "isHoliday": false
+        },
+        {
+            "date": "11",
+            "text": "Sf. Ap. Filip, unul din cei 7 diac.; Sf. Ier. Teofan Mărt., ep. Niceei",
+            "isHoliday": false
+        },
+        {
+            "date": "12",
+            "text": "Sf. Mc. Prov, Tarah și Andronic; Sf. Ier. Cosma, ep. Maiumei",
+            "isHoliday": false
+        },
+        {
+            "date": "13",
+            "text": "Aducerea moaștelor Sf. Ap. Andrei la Iași; Sf. Mc. Carp, Papil, Agatodor, Agatonica și Florentie",
+            "isHoliday": false
+        },
+        {
+            "date": "14",
+            "text": "Sf. Cuv. Parascheva de la Iași; Sf. Mc. Nazarie, Ghervasie, Protasie și Chelsie",
+            "isHoliday": false
+        },
+        {
+            "date": "15",
+            "text": "Sf. Mc. Luchian, pr. din Antiohia (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "16",
+            "text": "Sf. Mc. Longhin Sutașul",
+            "isHoliday": false
+        },
+        {
+            "date": "17",
+            "text": "Sf. Prooroc Oseea; Sf. Cuv. Mc. Andrei Criteanul (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "18",
+            "text": "Sf. Ap. și Ev. Luca; Sf. Mc. Marin cel Bătrân",
+            "isHoliday": false
+        },
+        {
+            "date": "19",
+            "text": "Sf. Prooroc Ioil; Sf. Mc. Uar; Sf. Cleopatra; Sf. Cuv. Ioan de la Rila;",
+            "isHoliday": false
+        },
+        {
+            "date": "20",
+            "text": "Sf. M. Mc. Artemie; Sf. Gherasim din Chefalonia",
+            "isHoliday": false
+        },
+        {
+            "date": "21",
+            "text": "Sf. Cuv. Mărt. Visarion și Sofronie; Sf. Mc. Oprea; Sf. Pr. Mărt. Ioan din Galeș și Moise Măcinic din Sibiel; Sf. Cuv. Ilarion cel Mare",
+            "isHoliday": false
+        },
+        {
+            "date": "22",
+            "text": "Sf. Ier. Averchie, ep. Ierapolei; Sf. 7 tineri din Efes; (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "23",
+            "text": "Sf. Ap. Iacob, ruda Domnului, întâiul ep. al Ierusalimului; Sf. Pr. Mc. Constantin Sârbu; Sf. Cuv. Macarie Romanul",
+            "isHoliday": false
+        },
+        {
+            "date": "24",
+            "text": "Sf. M. Mc. Areta; Sf. Mc. Marcu, Sotirih și Valentin (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "25",
+            "text": "Sf. Mc. Marcian și Martirie; Sf. Tavita",
+            "isHoliday": false
+        },
+        {
+            "date": "26",
+            "text": "Sf. M. Mc. Dimitrie, Izvorâtorul de mir",
+            "isHoliday": true
+        },
+        {
+            "date": "27",
+            "text": "Sf. Cuv. Dimitrie cel Nou, Ocrotitorul Bucureștilor, ale cărui moaște se află în Catedrala Patriarhală; Sf. Mc. Nestor",
+            "isHoliday": false
+        },
+        {
+            "date": "28",
+            "text": "Sf. Ier. Iachint, mitr. Țării Românești; Sf. Cuv. Teofana Basarab; Sf. Mc. Terentie, soția sa, Neonila și cei 7 fii ai lor: Nita, Sarvil, Ierax, Teodul, Fota, Vilie si Evnichi; Sf. Ier. Firmilian, ep. Cezareei Capadociei;",
+            "isHoliday": false
+        },
+        {
+            "date": "29",
+            "text": "Sf. M. Mc. Anastasia Romana; Sf. Cuv. Avramie și Maria, nepoata sa (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "30",
+            "text": "Sf. Sfințit Mc. Zenovie, ep. Ciliciei și sora sa, Zenovia; Sf. Ap. Cleopa",
+            "isHoliday": false
+        },
+        {
+            "date": "31",
+            "text": "Sf. Ap. Apelie, Stahie, Amplie, Urban, Aristobul și Narcis; Sf. Mc. Epimah (Post)",
+            "isHoliday": false
+        }
+    ],
+    "11": [
+        {
+            "date": "1",
+            "text": "Sf. doctori fără de arginți Cosma și Damian, cei din Asia (Pomenirea morților - Moşii de toamnă)",
+            "isHoliday": false
+        },
+        {
+            "date": "2",
+            "text": "Sf. Mc. Achindin, Pigasie, Aftonie, Elpifidor și Anempodist",
+            "isHoliday": false
+        },
+        {
+            "date": "3",
+            "text": "Sf. Mc. Achepsima ep., Iosif pr. și Aitala diac.; Așezarea moaștelor Sf. M. Mc. Gheorghe în Lida",
+            "isHoliday": false
+        },
+        {
+            "date": "4",
+            "text": "Sf. Cuv. Ioanichie cel Mare; Sf. Mc. Nicandru și Ermeu; Sf. Cuv.Gheorghe Mărt. din Drama",
+            "isHoliday": false
+        },
+        {
+            "date": "5",
+            "text": "Sf. Mc. Galaction și Epistimia (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "6",
+            "text": "Sf. Pavel Mărt., patr. Constantinopolului; Sf. Cuv. Luca din Sicilia",
+            "isHoliday": false
+        },
+        {
+            "date": "7",
+            "text": "Sf. 33 de Mc. din Melitina; Sf. Cuv. Lazăr din Muntele Galisiei (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "8",
+            "text": "Soborul Sf. Arh. Mihail și Gavriil și al tuturor cereștilor puteri",
+            "isHoliday": true
+        },
+        {
+            "date": "9",
+            "text": "Sf. Ier. Nectarie Taumaturgul de la Eghina; Sf. Mc. Claudiu, Castor, Sempronian și Nicostrat; Sf. Mc. Onisifor și Porfirie; Sf. Cuv. Matrona",
+            "isHoliday": false
+        },
+        {
+            "date": "10",
+            "text": "Sf. Ap. Olimp, Rodion, Sosipatru, Erast, Terțiu și Cvart; Sf. Cuv. Mc. Visarion de la Lainici; Sf. Mc. Orest",
+            "isHoliday": false
+        },
+        {
+            "date": "11",
+            "text": "Sf. M. Mc. Mina; Sf. Mc. Victor, Vichentie și Ștefanida; Sf. Cuv. Teodor Studitul",
+            "isHoliday": false
+        },
+        {
+            "date": "12",
+            "text": "Sf. Ier. Ioan cel Milostiv, patr. Alexandriei; Sf. Martiri și Mărt. Năsăudeni: Atanasie Todoran din Bichigiu, Vasile din Mocod, Grigorie din Zagra și Vasile din Telciu; Sf. Cuv. Nil Pustnicul (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "13",
+            "text": "Sf. Ier. Ioan Gură de Aur, arhiep. Constantinopolului și mama sa, Sf. Antuza (Lăsatul secului pentru Postul Nașterii Domnului)",
+            "isHoliday": false
+        },
+        {
+            "date": "14",
+            "text": "Sf. Ap. Filip unul dintre cei 12 Apostoli; Sf. Ier. Grigorie Palama, arhiep. Tesalonicului (Începutul Postului Nașterii Domnului) (Dezlegare la ulei și vin)",
+            "isHoliday": false
+        },
+        {
+            "date": "15",
+            "text": "Sf. Cuv. Paisie de la Neamț; Sf. Mc. și Mărt. Gurie, Samona și Aviv, diac. (Dezlegare la ulei și vin)",
+            "isHoliday": false
+        },
+        {
+            "date": "16",
+            "text": "Sf. Ap. și Ev. Matei (Dezlegare la ulei și vin)",
+            "isHoliday": false
+        },
+        {
+            "date": "17",
+            "text": "Sf. Ier. Grigorie Taumaturgul, ep. Neocezareei Pontului și Ghenadiei, patr. Constantinopolului; Sf. Cuv. Lazăr Zugravul (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "18",
+            "text": "Sf. Mc. Platon, Roman și Zaheu (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "19",
+            "text": "Sf. Ap. Iacov al lui Alfeu; Sf. Cuv. Atanasia, Andronic și Anastasia",
+            "isHoliday": false
+        },
+        {
+            "date": "20",
+            "text": "Înainte-prăznuirea Intrării în Biserică a Maicii Domnului; Sf. Cuv. Grigorie Decapolitul; Sf. Mc. Dasie; Sf. Ier. Proclu, arhiep. Constantinopolului; (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "21",
+            "text": "Intrarea în Biserică a Maicii Domnului (Vovidenia) (Dezlegare la pește)",
+            "isHoliday": true
+        },
+        {
+            "date": "22",
+            "text": "Sf. Ap. Filimon, Arhip, Onisim și Apfia; Sf. Mc. Cecilia (Dezlegare la pește)",
+            "isHoliday": false
+        },
+        {
+            "date": "23",
+            "text": "Sf. Cuv. Antonie de la Iezerul Vâlcii; Sf. Ier. Amfilohie, ep. Iconiei și Grigorie, ep. Acragandelor (Dezlegare la pește)",
+            "isHoliday": false
+        },
+        {
+            "date": "24",
+            "text": "Sf. Sfințiți Mc. Clement, ep. Romei și Petru, ep. Alexandriei (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "25",
+            "text": "Odovania Praznicului Intrării în Biserică a Maicii Domnului; Sf. M. Mc. Ecaterina; Sf. M. Mc. Mercurie (Dezlegare la pește)",
+            "isHoliday": false
+        },
+        {
+            "date": "26",
+            "text": "Sf. Cuv. Alipie Stâlpnicul, Nicon și Stelian Paflagonul (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "27",
+            "text": "Sf. M. Mc. Iacob Persul; Sf. Cuv. Natanail și Pinufrie (Dezlegare la ulei și vin)",
+            "isHoliday": false
+        },
+        {
+            "date": "28",
+            "text": "Sf. Cuv. Mărt. Arsenie de la Proslop; Sf. Cuv. Mc. Ștefan cel Nou; Sf. Mc. Irinarh (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "29",
+            "text": "Sf. Mc. Paramon și Filumen; Sf. Cuv. Pitirun (Dezlegare la pește)",
+            "isHoliday": false
+        },
+        {
+            "date": "30",
+            "text": "Sf. Ap. Andrei, cel Întâi Chemat, Ocrotitorul României; Sf. Ier. Andrei Șaguna, mitr. Transilvaniei; Sf. Ier. Frumentie, ep. Etiopiei (Dezlegare la pește)",
+            "isHoliday": true
+        }
+    ],
+    "12": [
+        {
+            "date": "1",
+            "text": "Sf. Prooroc Naum; Sf. Cuv. Filaret cel Milostiv (Tedeum - Ziua Națională a României) (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "2",
+            "text": "Sf. Cuv. Paisie și Cleopa de la Sihăstria; Sf. Prooroc Avacum; Sf. Mc. Miropi; Sf. Porfirie Cavsocalivitul; Sf. Ier. Solomon, arhiep. Efesului (Dezlegare la ulei și vin) (Dezlegare la pește)",
+            "isHoliday": false
+        },
+        {
+            "date": "3",
+            "text": "Sf. Cuv. Gheorghe de la Cernica și Căldărușani; Sf. Prooroc Sofonie (Dezlegare la ulei și vin)",
+            "isHoliday": false
+        },
+        {
+            "date": "4",
+            "text": "Sf. M. Mc. Varvara; Sf. Cuv. Ioan Damaschin (Dezlegare la pește)",
+            "isHoliday": false
+        },
+        {
+            "date": "5",
+            "text": "Sf. Cuv. Sava cel Sfințit; Sf. Mc. Anastasie (Dezlegare la ulei și vin)",
+            "isHoliday": false
+        },
+        {
+            "date": "6",
+            "text": "Sf. Ier. Nicolae, arhiep. Mirelor Lichiei, făcătorul de minuni (Dezlegare la pește)",
+            "isHoliday": false
+        },
+        {
+            "date": "7",
+            "text": "Sf. Mc. Filofteia de la Curtea de Argeș; Sf. Ier. Ambrozie, ep. Mediolanului (Milano) (Dezlegare la pește)",
+            "isHoliday": false
+        },
+        {
+            "date": "8",
+            "text": "Sf. Cuv. Patapie; Sf. Ap. Cezar, Tihic și Onisifor (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "9",
+            "text": "Zămislirea Sfintei Fecioare Maria de către Sf. Ana; Sf. Proorociță Ana, mama Proorocului Samuel (Dezlegare la pește)",
+            "isHoliday": false
+        },
+        {
+            "date": "10",
+            "text": "Sf. Mc. Mina, Ermoghen și Evgraf (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "11",
+            "text": "Sf. Cuv. Daniil Stâlpnicul și Luca cel Nou (Dezlegare la ulei și vin)",
+            "isHoliday": false
+        },
+        {
+            "date": "12",
+            "text": "Sf. Ier. Spiridon, ep. Trimitundei, făcătorul de minuni (Dezlegare la ulei și vin)",
+            "isHoliday": false
+        },
+        {
+            "date": "13",
+            "text": "Sf. Ier. Dosoftei, mitr. Moldovei; Sf. M. Mc. Eustratie, Auxentie, Evghenie, Mardarie și Orest; Sf. Mc. Lucia, fecioara din Siracuza (Dezlegare la pește)",
+            "isHoliday": false
+        },
+        {
+            "date": "14",
+            "text": "Sf. Mc. Tirs, Calinic, Filimon și Apolonie (Dezlegare la pește)",
+            "isHoliday": false
+        },
+        {
+            "date": "15",
+            "text": "Sf. Sfințit Mc. Elefterie, ep. Iliriei; Sf. Mc. Antia și Suzana; Sf. Cuv. Pavel din Latro (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "16",
+            "text": "Sf. Prooroc Agheu; Sf. Teofana, împ. (Dezlegare la ulei și vin)",
+            "isHoliday": false
+        },
+        {
+            "date": "17",
+            "text": "Sf. Prooroc Daniel și Sf. trei tineri: Anania, Azaria și Misail (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "18",
+            "text": "Sf. Cuv. Daniil Sihastrul; Sf. Mc. Sebastian și Zoe; Sf. Ier. Modest, arhiep. Ierusalimului (Dezlegare la pește)",
+            "isHoliday": false
+        },
+        {
+            "date": "19",
+            "text": "Sf. Mc. Bonifatie; Sf. Cuv. Aglaia, Sf. Ier. Grichentie, ep. Etiopiei; (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "20",
+            "text": "Înainte-prăznuirea Nașterii Domnului; Sf. Sfințit Mc. Ignatie Teoforul, ep. Antiohiei; Sf. Cuv. Serafim cel Răbdător de la Sâmbăta de Sus (Sâmbăta dinaintea Nașterii Domnului)",
+            "isHoliday": false
+        },
+        {
+            "date": "21",
+            "text": "Sf. Mc. Iuliana din Nicomidia; Sf. Mc. Temistocle (Dezlegare la ulei și vin)",
+            "isHoliday": false
+        },
+        {
+            "date": "22",
+            "text": "Sf. Ier. Petru Movilă, mitr. Kievului; Sf. M. Mc. Anastasia (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "23",
+            "text": "Sf. 10 Mc. din Creta; Sf. Ier. Pavel, arhiep. Neocezareei (Post)",
+            "isHoliday": false
+        },
+        {
+            "date": "24",
+            "text": "Sf. Mc. Eugenia (Ajunul Crăciunului) (Numai seara, grâu fiert îndulcit cu miere, poame, covrigi sau turte de făină)",
+            "isHoliday": false
+        },
+        {
+            "date": "25",
+            "text": "Nașterea Domnului (Crăciunul)",
+            "isHoliday": true
+        },
+        {
+            "date": "26",
+            "text": "A doua zi de Crăciun; Sf. Soborul Maicii Domnului; Sf. Cuv. Nicodim cel Sfințit de la Tismana; Sf. Cuv. Mc. Gherasim de la Tismana; Sf. Sfințit Mc. Eftimie, ep. Sardelor (Harți)",
+            "isHoliday": false
+        },
+        {
+            "date": "27",
+            "text": "A treia zi de Crăciun; Sf. Ap., întâiul Mc. și arhid. Ștefan; Sf. Cuv. Teodor Mărt. (Sâmbăta după Nașterea Domnului)",
+            "isHoliday": false
+        },
+        {
+            "date": "28",
+            "text": "Sf. 20.000 de Mc. arși în Nicomidia",
+            "isHoliday": false
+        },
+        {
+            "date": "29",
+            "text": "Sf. 14.000 de prunci uciși din porunca lui Irod; Sf. Cuv. Marcel și Tadeu",
+            "isHoliday": false
+        },
+        {
+            "date": "30",
+            "text": "Sf. Mc. Anisia fecioara; Sf. Cuv. Teodora din Cezareea; Sf. Cuv. Leon, arhim.",
+            "isHoliday": false
+        },
+        {
+            "date": "31",
+            "text": "Odovania Praznicului Nașterii Domnului; Sf. Cuv. Melania Romana; Sf. Mc. Hermes (Slujba în noaptea trecerii dintre ani) (Harți)",
+            "isHoliday": false
+        }
+    ]
+}

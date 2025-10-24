@@ -55,6 +55,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/
+    - assets/ORTHODOX_CALENDAR_2025.json
 
   # To add assets to your application, add an assets section, like this:
   # assets:
