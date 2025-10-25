@@ -223,7 +223,7 @@ Widget _buildAnimation() {
           right: 10,
           child: ElevatedButton(
             onPressed: _resetToStart,
-            child: const Text("Restart",style: const TextStyle(fontFamily: 'PressStart2P',),),
+            child: const Text("Restart",style: TextStyle(fontFamily: 'PressStart2P',),),
           ),
         ),
       ],
@@ -279,10 +279,6 @@ Widget _buildAnimation() {
       _showAnimation = true;
     });
 
-       await Future.wait([
-      precacheImage(const AssetImage('assets/images/yes-machine.png'), context),
-      precacheImage(const AssetImage('assets/images/no-machine.png'), context),
-    ]);
       await Future.delayed(const Duration(milliseconds: 1770));
 
       final today = await isHolidayToday();
