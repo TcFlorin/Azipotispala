@@ -56,49 +56,83 @@ class _MyAppState extends State<MyApp> {
   String _holidayText = '';
   
 
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      backgroundColor: const Color(0XFFE3F2FD),
-      appBar: AppBar(
-        backgroundColor: const Color.fromARGB(255, 57, 189, 103),
-        title: const Text(
-          'Spăl azi ???',
-          style: TextStyle(fontWeight: FontWeight.bold, fontFamily: 'PixelFont', fontSize: 20),
+@override
+Widget build(BuildContext context) {
+  return Scaffold(
+    backgroundColor: const Color(0XFFE3F2FD),
+    body: Stack(
+      alignment: Alignment.center,
+      children: [
+        // 🔹 fundal permanent
+        Image.asset(
+          'assets/images/background.png',
+          width: double.infinity,
+          height: double.infinity,
+          fit: BoxFit.cover,
         ),
-        centerTitle: true,
-      ),
-      body: Stack(
-        alignment: Alignment.center,
-        children: [
-          // fundal permanent
-          Image.asset(
-            'assets/images/background.png',
-            width: double.infinity,
-            height: double.infinity,
-            fit: BoxFit.cover,
-          ),
 
-          // conținutul principal
-          Center(
-            child: SizedBox(
+        // 🔹 conținut principal
+        Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            // 🟢 Titlu retro pixel-art
+            Container(
+              margin: const EdgeInsets.only(bottom: 20),
+              padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 24),
+              decoration: BoxDecoration(
+                color: const Color.fromARGB(255, 140, 219, 152), // verde pixelat retro
+                border: Border.all(color: Colors.black, width: 4),
+                boxShadow: const [
+                  BoxShadow(
+                    color: Colors.black,
+                    offset: Offset(4, 4),
+                    blurRadius: 0,
+                  ),
+                ],
+              ),
+              child: const Text(
+                'Spălăm azi ?',
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  fontFamily: 'PixelFont', // font pixelat (trebuie adăugat în assets)
+                  fontSize: 28,
+                  fontWeight: FontWeight.bold,
+                  color: Color.fromARGB(255, 0, 0, 0),
+                  height: 1.4,
+                  letterSpacing: 1.5,
+                  shadows: [
+                    Shadow(
+                      offset: Offset(2, 2),
+                      blurRadius: 0,
+                      color: Colors.black,
+                    ),
+                  ],
+                ),
+              ),
+            ),
+
+            // 🧺 Zona mașinii de spălat / animației / rezultatului
+            SizedBox(
               width: 400,
               height: 560,
               child: AnimatedSwitcher(
-                duration: Duration.zero,  // instant
+                duration: const Duration(milliseconds: 100),
+                switchInCurve: Curves.linear,
+                switchOutCurve: Curves.linear,
                 child: _showQuestion
                     ? _buildQuestion()
                     : _showAnimation
                         ? _buildAnimation()
                         : _buildDecision(),
-              )
+              ),
             ),
-          ),
-        ],
-      ),
-    );
-  }
+          ],
+        ),
+      ],
+    ),
+  );
+}
+
 
 
   Widget _buildMachine(String path, {Key ? key})
@@ -123,15 +157,15 @@ class _MyAppState extends State<MyApp> {
 
 Widget _buildAnimation() {
   return Center(
-    key: const Key('animation'),
+    key: ValueKey(DateTime.now().millisecondsSinceEpoch), // 👈 forțează rebuild total
     child: Transform.scale(
-      scale: 1.265, // 🔹 Zoom 2x — modifică după nevoie
+      scale: 1.2575,
       child: Image.asset(
         'assets/images/Animated.gif',
         width: 400,
-        height: 600,
+        height: 595,
         fit: BoxFit.contain,
-        filterQuality: FilterQuality.none, // 🔸 păstrează pixelii clari (pt pixel art)
+        filterQuality: FilterQuality.none,
       ),
     ),
   );
@@ -189,7 +223,7 @@ Widget _buildAnimation() {
           right: 10,
           child: ElevatedButton(
             onPressed: _resetToStart,
-            child: const Text("Restart"),
+            child: const Text("Restart",style: const TextStyle(fontFamily: 'PressStart2P',),),
           ),
         ),
       ],
@@ -231,12 +265,25 @@ Widget _buildAnimation() {
 }
 
   void _startAnimation() async {
+
+    PaintingBinding.instance.imageCache.clear();
+    PaintingBinding.instance.imageCache.clearLiveImages();
+
+    
+    await precacheImage(const AssetImage('assets/images/Animated.gif'), context);
+
     setState(() {
+    
 
       _showQuestion = false;
       _showAnimation = true;
     });
-      await Future.delayed(const Duration(milliseconds: 1500));
+
+       await Future.wait([
+      precacheImage(const AssetImage('assets/images/yes-machine.png'), context),
+      precacheImage(const AssetImage('assets/images/no-machine.png'), context),
+    ]);
+      await Future.delayed(const Duration(milliseconds: 1770));
 
       final today = await isHolidayToday();
 
