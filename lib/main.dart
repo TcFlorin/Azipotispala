@@ -121,18 +121,22 @@ class _MyAppState extends State<MyApp> {
 
   }
 
-
-  Widget _buildAnimation() {
+Widget _buildAnimation() {
   return Center(
     key: const Key('animation'),
-    child: Image.asset(
-      'assets/images/Animated.gif',
-      width: 300,
-      height: 400,
-      fit: BoxFit.contain, // 🔹 asigură proporții corecte
+    child: Transform.scale(
+      scale: 1.265, // 🔹 Zoom 2x — modifică după nevoie
+      child: Image.asset(
+        'assets/images/Animated.gif',
+        width: 400,
+        height: 600,
+        fit: BoxFit.contain,
+        filterQuality: FilterQuality.none, // 🔸 păstrează pixelii clari (pt pixel art)
+      ),
     ),
   );
 }
+
   Widget _buildDecision() {
   DateTime now = DateTime.now();
   String weekday = [
