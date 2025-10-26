@@ -182,7 +182,7 @@ Widget _buildAnimation() {
               alignment: Alignment.center,
               transform: Matrix4.diagonal3Values(1.2, 1.5, 1.0), // doar pe verticală
               child: Image.asset(
-                'assets/images/foam.gif',
+                'assets/images/foam2.gif',
                 width: 320,
                 height: 130,
                 fit: BoxFit.contain,
@@ -239,7 +239,13 @@ Widget _buildAnimation() {
               ? 'assets/images/yes-machine.png'
               : 'assets/images/no-machine.png',
           key: const Key('machine'),
-        ),Positioned(
+        ),
+
+
+
+
+
+        Positioned(
             bottom: 10,
             left: 40,
             right: 40,
@@ -281,13 +287,41 @@ Widget _buildAnimation() {
 
         // Buton restart (opțional)
         Positioned(
-          bottom: 50,
-          left: 10,
-          right: 10,
-          child: ElevatedButton(
-            onPressed: _resetToStart,
-            child: const Text("Restart",style: TextStyle(fontFamily: 'PressStart2P',),),
+          top: 20,
+          left: 0,
+          right: 0,
+          child: Center( 
+          child: GestureDetector(
+            onTap: _resetToStart,
+            child: Container(
+              width: 70,
+              height: 70,
+              decoration: BoxDecoration(
+                color: const Color.fromARGB(255, 140, 219, 152), // verde retro
+                border: Border.all(color: Colors.black, width: 4),
+                boxShadow: const [
+                  BoxShadow(
+                    color: Colors.black,
+                    offset: Offset(4, 4),
+                    blurRadius: 0,
+                  ),
+                ],
+              ),
+              child: const Center(
+                child: Text(
+                  '↺', // simbol retro de restart
+                  style: TextStyle(
+                    fontFamily: 'PixelFont', // font pixelat
+                    fontSize: 36,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.black,
+                    height: 1.0,
+                  ),
+                ),
+              ),
+            ),
           ),
+        ),
         ),
       ],
     ),
