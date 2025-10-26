@@ -160,12 +160,46 @@ Widget _buildAnimation() {
     key: ValueKey(DateTime.now().millisecondsSinceEpoch), // 👈 forțează rebuild total
     child: Transform.scale(
       scale: 1.2575,
-      child: Image.asset(
-        'assets/images/Animated.gif',
-        width: 400,
+      child: Stack(
+        alignment: Alignment.bottomCenter,
+        children: [
+
+        Positioned(
+          bottom: 109,
+          child: Opacity(
+            opacity: 1,
+            child: Transform(
+              alignment: Alignment.center,
+              transform: Matrix4.diagonal3Values(1.2, 1.5, 1.0), // doar pe verticală
+              child: Image.asset(
+                'assets/images/foam.gif',
+                width: 320,
+                height: 130,
+                fit: BoxFit.contain,
+                filterQuality: FilterQuality.none,
+              ),
+            ),
+          ),
+        ),
+        Image.asset('assets/images/Animated.gif',
+        width: 410,
         height: 595,
         fit: BoxFit.contain,
         filterQuality: FilterQuality.none,
+      ),
+      Positioned(
+        bottom: 70,
+        child: Image.asset(
+          'assets/images/foam.gif',
+          width: 350,
+          height: 170,
+          fit: BoxFit.contain, 
+          filterQuality: FilterQuality.none
+
+
+        )
+        ),
+      ],
       ),
     ),
   );
