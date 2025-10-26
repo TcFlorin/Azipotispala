@@ -70,7 +70,17 @@ Widget build(BuildContext context) {
           height: double.infinity,
           fit: BoxFit.cover,
         ),
-
+        // 🔹 podeaua (mereu prezentă)
+        Positioned(
+          bottom: 0,
+          child: Image.asset(
+            'assets/images/floor.png',
+            width: 600,       // ajustează după design
+            height: 300,      // înălțimea podelei
+            fit: BoxFit.cover,
+            filterQuality: FilterQuality.none,
+          ),
+        ),
         // 🔹 conținut principal
         Column(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -229,26 +239,45 @@ Widget _buildAnimation() {
               ? 'assets/images/yes-machine.png'
               : 'assets/images/no-machine.png',
           key: const Key('machine'),
-        ),
-        Positioned(
-          bottom: 10,
-          left: 10,
-          right: 10,
-          child: Text(
-            _holidayText.isNotEmpty
-                ? '$weekday: $_holidayText'
-                : weekday,
-            textAlign: TextAlign.center,
-            style: const TextStyle(
-              fontSize: 28, // font mai mare
-              fontWeight: FontWeight.bold,
-              color: Colors.black,
-              fontFamily: 'PixelFont', // font monospace / pixelat
-              backgroundColor: Colors.transparent, // fără fundal
-              letterSpacing: 1.2,
+        ),Positioned(
+            bottom: 10,
+            left: 40,
+            right: 40,
+            child: Container(
+              padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 20),
+              decoration: BoxDecoration(
+                color: const Color.fromARGB(255, 140, 219, 152), // verde pixelat retro
+                border: Border.all(color: Colors.black, width: 4),
+                boxShadow: const [
+                  BoxShadow(
+                    color: Colors.black,
+                    offset: Offset(4, 4),
+                    blurRadius: 0,
+                  ),
+                ],
+              ),
+              child: Text(
+                _holidayText.isNotEmpty ? '$weekday: $_holidayText' : weekday,
+                textAlign: TextAlign.center,
+                style: const TextStyle(
+                  fontFamily: 'PixelFont', // fontul tău pixelat
+                  fontSize: 24,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.black,
+                  height: 1.3,
+                  letterSpacing: 1.5,
+                  shadows: [
+                    Shadow(
+                      offset: Offset(2, 2),
+                      blurRadius: 0,
+                      color: Colors.black,
+                    ),
+                  ],
+                ),
+              ),
             ),
           ),
-        ),
+
 
         // Buton restart (opțional)
         Positioned(
