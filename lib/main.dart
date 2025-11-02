@@ -11,7 +11,7 @@ Future<Map<String, dynamic>> parseCalendar(String jsonString) async {
 
 Future<Map<String, dynamic>> loadOrthodoxCalendar() async {
   String jsonString = await rootBundle.loadString('assets/ORTHODOX_CALENDAR_2025.json');
-  return json.decode(jsonString);
+  return compute(parseCalendar, jsonString);
 }
 
 
