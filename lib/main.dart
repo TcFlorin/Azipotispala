@@ -1,6 +1,13 @@
+import 'dart:async';
 import 'dart:convert';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+
+// Funcție separată pentru parsing JSON pe thread separat
+Future<Map<String, dynamic>> parseCalendar(String jsonString) async {
+  return json.decode(jsonString) as Map<String, dynamic>; 
+}
 
 Future<Map<String, dynamic>> loadOrthodoxCalendar() async {
   String jsonString = await rootBundle.loadString('assets/ORTHODOX_CALENDAR_2025.json');
@@ -14,6 +21,12 @@ Future<Map<String, dynamic>> isHolidayToday() async {
   DateTime now = DateTime.now();
   String month = now.month.toString();
   String day = now.day.toString();
+  int weekday = now.weekday; // 1 = Luni, 7 = Duminică
+
+  if (weekday == 7)
+    {
+      return {'isHoliday': true, 'date': now.day.toString()};
+    }
 
   if (!holidays.containsKey(month)) {
     return {'isHoliday': false, 'date': ''};
@@ -25,7 +38,7 @@ Future<Map<String, dynamic>> isHolidayToday() async {
     if (holiday['date'] == day) {
       return {
         'isHoliday': holiday['isHoliday'] == true,
-        'text': holiday['date'] ?? ''
+        'date': holiday['date'] ?? ''
     };
   }}
 
@@ -367,7 +380,7 @@ Widget _buildAnimation() {
     PaintingBinding.instance.imageCache.clearLiveImages();
 
     
-    await precacheImage(const AssetImage('assets/images/Animated.gif'), context);
+    unawaited(precacheImage(const AssetImage('assets/images/Animated.gif'), context));
 
     setState(() {
     
@@ -384,7 +397,7 @@ Widget _buildAnimation() {
 
       setState(() {
         _status = !today['isHoliday'];
-        _holidayText = today['text'];
+        _holidayText = today['date'];
         _showAnimation = false;
         _showDecision = true;
         
