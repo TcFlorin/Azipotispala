@@ -3,6 +3,8 @@ import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:home_widget/home_widget.dart';
+import 'widget_controller.dart'; // fișierul unde ai initWidgetListener()
 
 // Funcție separată pentru parsing JSON pe thread separat
 Future<Map<String, dynamic>> parseCalendar(String jsonString) async {
@@ -46,7 +48,17 @@ Future<Map<String, dynamic>> isHolidayToday() async {
 }
 
 
-void main() {
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+
+  // PASUL 8 – initializează widget-ul cu icon și text default
+  await HomeWidget.saveWidgetData<String>('widget_text', 'Apasă ca să verifici');
+  await HomeWidget.saveWidgetData<String>('widget_icon', 'washer_green');
+  await HomeWidget.updateWidget(name: 'WasherWidgetProvider');
+
+  // PASUL 7 – ascultă tap pe widget
+  initWidgetListener();
+
   runApp(const MaterialApp(
     home: MyApp(),
     debugShowCheckedModeBanner: false,
