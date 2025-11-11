@@ -28,14 +28,21 @@
 
         <receiver
             android:name=".WasherWidgetProvider"
+            android:label="Washer Widget"
             android:exported="true">
             <intent-filter>
-                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+                <action android:name="com.example.azipotisaspeli.WIDGET_CLICK"/>
             </intent-filter>
             <meta-data
                 android:name="android.appwidget.provider"
-                android:resource="@xml/washer_widget_info" />
+                android:resource="@xml/washer_widget_info"/>
         </receiver>
+
+
+
+
+
 
 
 
