@@ -26,7 +26,10 @@ class WasherWidgetProvider : AppWidgetProvider() {
         appWidgetIds: IntArray
     ) {
         for (id in appWidgetIds) {
-            val views = RemoteViews(context.packageName, R.layout.home_widget_layout)
+            val layoutId = getLayoutForSize(context, appWidgetManager, id)
+            val views = RemoteViews(context.packageName, layoutId)
+
+            views.setImageViewResource(R.id.widget_icon, R.drawable.iconw)
 
             // click pe widget
             val intent = Intent(context, WasherWidgetProvider::class.java).apply {
@@ -55,6 +58,34 @@ class WasherWidgetProvider : AppWidgetProvider() {
             animateFrames(context, appWidgetManager, ids, 0)
         }
     }
+    
+    // 🔹 Resize handler 
+    override fun onAppWidgetOptionsChanged(
+        context: Context,
+        appWidgetManager: AppWidgetManager,
+        appWidgetId: Int,
+        newOptions: android.os.Bundle
+    ) {
+        super.onAppWidgetOptionsChanged(context, appWidgetManager, appWidgetId, newOptions)
+
+        // Reset icon and click action on resize
+        val layoutId = getLayoutForSize(context, appWidgetManager, appWidgetId)
+        val views = RemoteViews(context.packageName, layoutId)
+        views.setImageViewResource(R.id.widget_icon, R.drawable.iconw)
+
+        val intent = Intent(context, WasherWidgetProvider::class.java).apply {
+            action = "WIDGET_CLICK"
+        }
+        val pendingIntent = PendingIntent.getBroadcast(
+            context,
+            appWidgetId,
+            intent,
+            PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
+        )
+        views.setOnClickPendingIntent(R.id.widget_icon, pendingIntent)
+
+        appWidgetManager.updateAppWidget(appWidgetId, views)
+    }
 
     private fun animateFrames(
         context: Context,
@@ -66,7 +97,8 @@ class WasherWidgetProvider : AppWidgetProvider() {
             // După animație afișează rezultatul final
             val resultRes = if (checkIfHoliday()) R.drawable.washred else R.drawable.washgreen
             for (id in ids) {
-                val views = RemoteViews(context.packageName, R.layout.home_widget_layout)
+                val layoutId = getLayoutForSize(context, manager, id)
+                val views = RemoteViews(context.packageName, layoutId)
                 views.setImageViewResource(R.id.widget_icon, resultRes)
                 manager.updateAppWidget(id, views)
             }
@@ -75,7 +107,8 @@ class WasherWidgetProvider : AppWidgetProvider() {
 
         // Afișează frame-ul curent
         for (id in ids) {
-            val views = RemoteViews(context.packageName, R.layout.home_widget_layout)
+            val layoutId = getLayoutForSize(context, manager, id)
+            val views = RemoteViews(context.packageName, layoutId)
             views.setImageViewResource(R.id.widget_icon, frameList[frameIndex])
             manager.updateAppWidget(id, views)
         }
@@ -85,6 +118,21 @@ class WasherWidgetProvider : AppWidgetProvider() {
             animateFrames(context, manager, ids, frameIndex + 1)
         }, 300)
     }
+
+    private fun getLayoutForSize(context: Context, manager: AppWidgetManager, widgetId: Int): Int {
+    val options = manager.getAppWidgetOptions(widgetId)
+    val minWidth = options.getInt(AppWidgetManager.OPTION_APPWIDGET_MIN_WIDTH)
+    val minHeight = options.getInt(AppWidgetManager.OPTION_APPWIDGET_MIN_HEIGHT)
+
+    return when {
+        minWidth < 50 && minHeight < 50 -> R.layout.widget_small // 1x1
+        minWidth < 110 || minHeight < 110 -> R.layout.widget_medium // 1x2 sau 2x1
+        else -> R.layout.widget_large // 2x2+
+    }
+
+
+    }
+
 
     // Funcție simplă de verificat sărbătoare (exemplu)
     private fun checkIfHoliday(): Boolean {
